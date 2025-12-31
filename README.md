@@ -2,7 +2,7 @@
 
 This project predicts the presence of heart disease using a **Random Forest Classifier** trained on the Heart Disease dataset.
 
-## 🧠 Workflow
+## Workflow
 - Load the dataset from the provided URL
 - Split the data into training and test sets
 - Train a Random Forest classifier
@@ -10,4 +10,4 @@ This project predicts the presence of heart disease using a **Random Forest Clas
 
 ## 🚀 How to Run
 ```bash
-python source/main.py
+python src/main.py
